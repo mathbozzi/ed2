@@ -36,6 +36,7 @@ void ehPrimo(int *v, int n){
             {
                 v[i] = v[j];
             }
+            //testegit
         }
     }
 }
